@@ -84,7 +84,7 @@ body * {
   transform: translateY(-50%);
 }
 
-.light #switch button{
+.light #switch button {
   right: 0;
   left: initial;
 }
